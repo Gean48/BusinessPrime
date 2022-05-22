@@ -1,6 +1,6 @@
 {
- "version":"1.20",
- "title":"Atualização disponível v1.20 🛠️",
+ "version":"1.25",
+ "title":"Atualização disponível v1.25 🛠️",
  "description":"Uma nova atualização está disponível e vêm com novas funções 👏🏻🚀",
  "download":"https://xlab-temas.blogspot.com/2022/05/business-prime.html"
 }
